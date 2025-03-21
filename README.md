@@ -104,9 +104,7 @@ To use these notebooks:
 - Implement dynamic batching strategies for production deployment
 - Add support for more Indian languages and dialects
 
-## License
 
-[Specify your license here]
 
 ## Acknowledgments
 
