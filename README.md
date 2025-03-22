@@ -1,5 +1,10 @@
 # Whisper Model Optimization for Indian Names Recognition
 
+
+
+
+I'm running an optimized version of Whisper fine-tuned for Indian names, specifically those starting with 'Va.' The model is fully GPU-accelerated on an NVIDIA RTX 3060 (12GB VRAM) with TensorRT-LLM INT8 quantization, making it 2-4x faster while maintaining high accuracy (~2.1% WER). It's deployed on Vast.ai and runs on Triton Inference Server, ensuring smooth real-time processing. Just try saying names from the list—it'll recognize them instantly!
+
 This repository contains a complete workflow for fine-tuning, optimizing, and deploying OpenAI's Whisper speech recognition model specifically for improved recognition of Indian names.
 
 ## Repository Contents
